@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate engineering undergraduate from the **Univ
 
 ## 👩‍🎓 **About Me**
 
-- 🎓 **3rd Year Computer Engineering Undergraduate** – *University of Jaffna*  
+- 🎓 **Final Year Computer Engineering Undergraduate** – *University of Jaffna*  
 - 💻 **BIT Student** – *University of Moratuwa*  
 - 🌱 **Currently exploring**: `AI` ✨ | `Web Development` 🌐 | `Control Systems` 🎯  
 - 🎯 **Dream Role**: *Future Lecturer & Tech Researcher*  
