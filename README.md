@@ -21,16 +21,6 @@ Welcome to my GitHub! I'm a passionate engineering undergraduate from the **Univ
 - 🛠 **Tools & Frameworks**: `React`, `Bootstrap`, `PHP`, `MySQL`, `Node.js`, `Git`, `Figma`
 - 🔧 **Other Tools**: `VS Code`, `MySQL Workbench`, `MATLAB`, `NetBeans`, `GitHub`, `Eclipse`
 
----
-
-## 📚 **Projects & Activities**
- 
-- 🧠 **Audio Classification in MATLAB** – Signal processing using MFCC and Euclidean distance  
-- 🏨 **Hostel Management System** – PHP + MySQL web app for room booking, payments, and complaints  
-- 🛫 **Aircraft Attitude Control** – MATLAB simulations with control theory for closed-loop systems  
-- 🧠 **IEEE CIS Article Contributor** – Author for IEEE Computational Intelligence Society’s newsletter
-
----
 
 ## 🌍 **Let's Connect**
 
